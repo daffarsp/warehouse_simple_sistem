@@ -8,7 +8,6 @@ Project ini dikembangkan sebagai latihan dasar dalam mempelajari pemrograman web
 
 ## ✨ Features
 
-- 📥 Input Data Barang
 - 📋 Menampilkan Data Barang
 - 📦 Daftar Stok Barang
 - 🧾 Informasi Harga Pokok & Harga Jual
