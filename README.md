@@ -25,6 +25,14 @@ Project ini dikembangkan sebagai latihan dasar dalam mempelajari pemrograman web
 - JavaScript
 - AOS Animation
 
+## Tampilan Project
+
+<img width="1920" height="1080" alt="Screenshot 2026-08-06 132052" src="https://github.com/user-attachments/assets/04b9e2c2-2c94-495a-b46d-8ab244c0323b" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-08-06 132041" src="https://github.com/user-attachments/assets/c4d35b9b-9adb-4630-b914-7b3ccf44a8f1" />
+
+
+
 ---
 
 ## 📂 Project Structure
